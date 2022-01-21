@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T03:27:51.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="8ES1iHxyrqtL9_-2DU2k" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T03:29:34.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="H6FXg_Y2X1D5iQewmj5Y" version="16.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="ty5BbGDenOrGcdCGsOg5-10" value="四则混合运算&#xa;步骤拆解接口" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="120" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ty5BbGDenOrGcdCGsOg5-13" value="公式应用" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="390" width="120" height="50" as="geometry" />
+        <mxCell id="ty5BbGDenOrGcdCGsOg5-13" value="公式识别与应用" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="390" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
