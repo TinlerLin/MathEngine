@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:51:01.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="NyDsXTA25HaQM6d8TdZD" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:51:17.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="CxJ7mAYHDDzb4GhYp72i" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,13 +257,13 @@
           <mxGeometry x="565" y="225" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14nIwSXdcislznq_X5G9-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;运算法则应用&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;fontColor=#CC0066;strokeColor=#000000;strokeWidth=2;fillColor=default;width=140;height=40;fontStyle=1" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="1430" y="40" width="820" height="810" as="geometry" />
+          <mxGeometry x="1400" y="40" width="820" height="810" as="geometry" />
         </mxCell>
         <mxCell id="14nIwSXdcislznq_X5G9-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="1737.5" y="90" width="26" height="26" as="geometry" />
+          <mxGeometry x="1707.5" y="90" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="14nIwSXdcislznq_X5G9-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="1735.5" y="730" width="30" height="30" as="geometry" />
+          <mxGeometry x="1705.5" y="730" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
