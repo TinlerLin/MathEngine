@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T11:02:13.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="qJvvRxCTpXVEKtx68eQH" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T11:03:01.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="xJYdIFmcgLL2WsNTJ-52" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="ty5BbGDenOrGcdCGsOg5-5" value="语法分析" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="560" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ty5BbGDenOrGcdCGsOg5-6" value="化简规则集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ty5BbGDenOrGcdCGsOg5-6" value="化简方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="390" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ty5BbGDenOrGcdCGsOg5-7" value="凑整规则集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ty5BbGDenOrGcdCGsOg5-7" value="凑整方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="390" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-8" value="加法定律&#xa;交换律/结合律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -166,7 +166,7 @@
             <mxPoint x="620" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tjZRN-iAtyA-G1_4J_O7-61" value="凑整" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tjZRN-iAtyA-G1_4J_O7-61" value="凑整方法集" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="1300" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjZRN-iAtyA-G1_4J_O7-63" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;" vertex="1" parent="tjZRN-iAtyA-G1_4J_O7-61">
@@ -175,7 +175,7 @@
         <mxCell id="tjZRN-iAtyA-G1_4J_O7-64" value="+ Apply(float[] numbers, out var result): bool" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;" vertex="1" parent="tjZRN-iAtyA-G1_4J_O7-61">
           <mxGeometry y="34" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="tjZRN-iAtyA-G1_4J_O7-65" value="化简" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tjZRN-iAtyA-G1_4J_O7-65" value="化简方法集" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;strokeWidth=1;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="1300" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tjZRN-iAtyA-G1_4J_O7-66" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;rounded=0;shadow=0;glass=0;sketch=0;fontSize=12;fontColor=#000000;" vertex="1" parent="tjZRN-iAtyA-G1_4J_O7-65">
