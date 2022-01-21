@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T03:17:41.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="Kmw8ED18ctkCmNIM3Pvs" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T03:22:56.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="qwzYYpb6kECZs1YIDMID" version="16.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,22 +11,22 @@
           <mxGeometry x="80" y="200" width="660" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-2" value="简算层" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="300" width="660" height="90" as="geometry" />
+          <mxGeometry x="80" y="300" width="660" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-3" value="基础层" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="400" width="660" height="90" as="geometry" />
+          <mxGeometry x="80" y="460" width="660" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-4" value="基础运算" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="210" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-5" value="语法分析" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="430" width="120" height="50" as="geometry" />
+          <mxGeometry x="460" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-6" value="化简" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="330" width="120" height="50" as="geometry" />
+          <mxGeometry x="210" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-7" value="凑整" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="330" width="120" height="50" as="geometry" />
+          <mxGeometry x="460" y="320" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-8" value="加法定律&#xa;交换律/结合律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="220" width="150" height="50" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="ty5BbGDenOrGcdCGsOg5-10" value="四则混合运算&#xa;步骤拆解接口" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="120" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ty5BbGDenOrGcdCGsOg5-13" value="公式应用" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="390" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
