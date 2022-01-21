@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T08:36:35.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="stkG4ASl3bN8PT7t4UFe" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:37:43.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="uikWU9PRTHckxhyPXDUe" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="9AbvWPywLmUA8nY9qhrw-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#CC0066;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="9AbvWPywLmUA8nY9qhrw-3" target="XP0fecD_RAmEZ3QJ_zGN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9AbvWPywLmUA8nY9qhrw-3" value="提取算式子项集" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+        <mxCell id="9AbvWPywLmUA8nY9qhrw-3" value="提取并组织&lt;br&gt;算式子项集" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
           <mxGeometry x="1624.5" y="396" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9AbvWPywLmUA8nY9qhrw-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#CC0066;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="9AbvWPywLmUA8nY9qhrw-7" target="14nIwSXdcislznq_X5G9-6">
