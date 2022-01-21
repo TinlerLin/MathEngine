@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T07:20:45.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="HSPR39YghkjrAQvi9p7O" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T07:21:53.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="y5tZUNmssyKM6D4Bv6-2" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,8 +237,8 @@
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-65" value="是否&lt;br&gt;完成遍历" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" parent="MPlhkhTgIEaL_Tt8AZgD-1" vertex="1">
           <mxGeometry x="1230" y="480" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-75" value="遍历运算法则库，找到第1个可适用的法则并进行应用&lt;br&gt;&lt;br&gt;&lt;b&gt;采用职责链模式，方便法则库的扩展&lt;/b&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#0000FF;" parent="MPlhkhTgIEaL_Tt8AZgD-1" vertex="1">
-          <mxGeometry x="793" y="230" width="267" height="100" as="geometry" />
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-75" value="遍历运算法则库，找到第1个可适用的法则并进行应用&lt;br&gt;&lt;br&gt;&lt;b&gt;采用类职责链模式，方便法则库的扩展&lt;/b&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#0000FF;" parent="MPlhkhTgIEaL_Tt8AZgD-1" vertex="1">
+          <mxGeometry x="800" y="200" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-76" value="&lt;font&gt;若当前是子算式的步骤拆解，则不需要进一步简化，统一交由最外层简化即可&lt;br&gt;&lt;br&gt;&lt;b&gt;目的：提高全局性优化的可能性？&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=16;fontColor=#0000CC;" parent="MPlhkhTgIEaL_Tt8AZgD-1" vertex="1">
           <mxGeometry x="430" y="740" width="280" height="96" as="geometry" />
