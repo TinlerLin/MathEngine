@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T11:34:20.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="m0k_HGlFt2r8D6_HaivY" version="16.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-21T11:34:56.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="FwFItFRGkMJarWUZP7O4" version="16.4.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="tjZRN-iAtyA-G1_4J_O7-27" value="国际化" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="630" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SJcw0U82XYOF6CfsKmgo-0" value="速算方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJcw0U82XYOF6CfsKmgo-0" value="有趣速算类方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="460" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
