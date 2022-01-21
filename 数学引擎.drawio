@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T08:14:32.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="EnmBDgdNYmoX7X3hza8O" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:14:53.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="HiIxfuU6Mi7Y_ZvB9Bcv" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-0" />
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-1" parent="MPlhkhTgIEaL_Tt8AZgD-0" />
         <mxCell id="14nIwSXdcislznq_X5G9-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;运算法则应用&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;fontColor=#CC0066;strokeColor=#000000;strokeWidth=2;fillColor=default;width=140;height=40;fontStyle=1" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="1400" y="40" width="820" height="1050" as="geometry" />
+          <mxGeometry x="1400" y="40" width="650" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-10" value="算式运算步骤输出" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=180;height=40;fontStyle=3;fontColor=#CC0066;strokeWidth=2;" parent="MPlhkhTgIEaL_Tt8AZgD-1" vertex="1">
           <mxGeometry x="40" y="40" width="1320" height="1050" as="geometry" />
