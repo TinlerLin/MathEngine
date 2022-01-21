@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T11:40:13.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="s2nYfYApsrdmF_vVI9IF" version="16.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-21T11:41:05.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="zx3IOGBB5iFHJTlqJTcl" version="16.4.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,13 +55,13 @@
         <mxCell id="tjZRN-iAtyA-G1_4J_O7-27" value="国际化" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="630" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SJcw0U82XYOF6CfsKmgo-0" value="有趣速算类方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJcw0U82XYOF6CfsKmgo-0" value="有趣速算类方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00CC00;strokeColor=#00CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="460" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cmZN5DIPrFzRQsNExhsa-0" value="数据层" style="shape=umlFrame;whiteSpace=wrap;html=1;width=90;height=30;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="710" width="660" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cmZN5DIPrFzRQsNExhsa-1" value="&lt;font color=&quot;#000000&quot;&gt;年段与运算法则&lt;br&gt;关系库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=16;fontColor=#00CC00;fillColor=default;spacingBottom=-20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cmZN5DIPrFzRQsNExhsa-1" value="&lt;font&gt;年段与运算法则&lt;br&gt;关系库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontSize=16;fontColor=#00CC00;fillColor=default;spacingBottom=-20;strokeColor=#00CC00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="730" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
