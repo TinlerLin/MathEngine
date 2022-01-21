@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T06:14:32.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="lEA9PMl0zEhfoqL4HGyj" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T06:27:46.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="Dpz6sRUQxCz2VGVojWXd" version="16.4.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,21 +53,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_IkjPrCSeGOHGhf27y2S" name="算法流程设计">
-    <mxGraphModel dx="2249" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-0" />
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-1" parent="MPlhkhTgIEaL_Tt8AZgD-0" />
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-10" value="算式运算步骤输出" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=16;width=80;height=40;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="180" y="10" width="1260" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-74" value="&lt;span style=&quot;text-align: left&quot;&gt;循环遍历各子算式(loop)&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#0000FF;fillColor=none;width=180;height=40;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="960" y="340" width="390" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-2" target="MPlhkhTgIEaL_Tt8AZgD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
           <mxGeometry x="467.5" y="30" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-10" value="算式运算步骤输出" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=16;width=80;height=40;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="-130" y="30" width="120" height="690" as="geometry" />
-        </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="465.5" y="860" width="30" height="30" as="geometry" />
+          <mxGeometry x="465.5" y="940" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-4" target="MPlhkhTgIEaL_Tt8AZgD-5">
           <mxGeometry relative="1" as="geometry" />
@@ -115,11 +118,11 @@
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-9" target="MPlhkhTgIEaL_Tt8AZgD-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="595" as="targetPoint" />
+            <mxPoint x="370" y="675" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1015" y="660" />
-              <mxPoint x="400" y="660" />
-              <mxPoint x="400" y="595" />
+              <mxPoint x="1091" y="740" />
+              <mxPoint x="460" y="740" />
+              <mxPoint x="460" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -133,17 +136,17 @@
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-57" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#0000FF;" vertex="1" connectable="0" parent="MPlhkhTgIEaL_Tt8AZgD-52">
           <mxGeometry x="0.6978" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="44" as="offset" />
+            <mxPoint x="-1" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-9" value="是否拆解出&lt;br&gt;多个子项式" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="950" y="562.5" width="130" height="65" as="geometry" />
+          <mxGeometry x="1026" y="642.5" width="130" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-12" target="MPlhkhTgIEaL_Tt8AZgD-14">
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#0000CC;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-12" target="MPlhkhTgIEaL_Tt8AZgD-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-12" value="&lt;span&gt;算式运算&lt;/span&gt;&lt;br&gt;&lt;span&gt;步骤输出&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;verticalAlign=top;rounded=1;arcSize=6;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="950" y="390" width="130" height="60" as="geometry" />
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-12" value="&lt;span&gt;子算式运算&lt;/span&gt;&lt;span&gt;步骤输出&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;verticalAlign=top;rounded=1;arcSize=6;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="1026" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-14" target="MPlhkhTgIEaL_Tt8AZgD-30">
           <mxGeometry relative="1" as="geometry" />
@@ -154,9 +157,9 @@
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-15" target="MPlhkhTgIEaL_Tt8AZgD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-49" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF0000;" vertex="1" connectable="0" parent="MPlhkhTgIEaL_Tt8AZgD-37">
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-49" value="否？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#FF0000;" vertex="1" connectable="0" parent="MPlhkhTgIEaL_Tt8AZgD-37">
           <mxGeometry x="-0.7668" y="2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="-57" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-15" target="MPlhkhTgIEaL_Tt8AZgD-9">
@@ -168,25 +171,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-15" value="是否需要&lt;br&gt;子算式拆解" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="650" y="560" width="140" height="70" as="geometry" />
+          <mxGeometry x="650" y="640" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-16" target="MPlhkhTgIEaL_Tt8AZgD-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-16" value="进一步简化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="230" y="570" width="137" height="50" as="geometry" />
+          <mxGeometry x="230" y="650" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-26" target="MPlhkhTgIEaL_Tt8AZgD-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-26" value="合并所有运算步骤&lt;br&gt;&amp;amp; 输出结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
-          <mxGeometry x="412" y="740" width="137" height="50" as="geometry" />
+          <mxGeometry x="412" y="820" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-30" target="MPlhkhTgIEaL_Tt8AZgD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MPlhkhTgIEaL_Tt8AZgD-30" value="更新算式" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
           <mxGeometry x="412" y="230" width="137" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#0000CC;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-58" target="MPlhkhTgIEaL_Tt8AZgD-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-62" value="是，break loop" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#0000CC;" vertex="1" connectable="0" parent="MPlhkhTgIEaL_Tt8AZgD-61">
+          <mxGeometry x="-0.2419" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-66" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontColor=#FF0000;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-58" target="MPlhkhTgIEaL_Tt8AZgD-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-58" value="是否有&lt;br&gt;子步骤输出" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="1036" y="420" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;fontColor=#0000CC;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-59" target="MPlhkhTgIEaL_Tt8AZgD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-59" value="子步骤输出" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="775" y="425" width="112" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;fontColor=#FF0000;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-65" target="MPlhkhTgIEaL_Tt8AZgD-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="450" />
+              <mxPoint x="1420" y="780" />
+              <mxPoint x="400" y="780" />
+              <mxPoint x="400" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-70" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontColor=#0000FF;" vertex="1" connectable="0" parent="MPlhkhTgIEaL_Tt8AZgD-69">
+          <mxGeometry x="-0.7309" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-73" value="否，continue loop" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;fontColor=#0000FF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MPlhkhTgIEaL_Tt8AZgD-1" source="MPlhkhTgIEaL_Tt8AZgD-65" target="MPlhkhTgIEaL_Tt8AZgD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1285" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPlhkhTgIEaL_Tt8AZgD-65" value="是否完成遍历" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="MPlhkhTgIEaL_Tt8AZgD-1">
+          <mxGeometry x="1230" y="420" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
