@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T19:12:14.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="YXQeOSJKZ7kGQtmF4qAv" version="20.4.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-10-16T19:14:10.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="l5ndC4Zdf8-dGT9lA_q4" version="20.4.1" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1368,41 +1368,44 @@
         <mxCell id="Sjk2sSOGN2D8FrFHUU6f-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;fillColor=#000000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
           <mxGeometry x="-390" y="260" width="26" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#FF0000;endArrow=none;endFill=0;" edge="1" parent="iSBz-SDed5YJUgZHmNs5-1" source="Sjk2sSOGN2D8FrFHUU6f-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-320" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Sjk2sSOGN2D8FrFHUU6f-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;fillColor=#000000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
           <mxGeometry x="-350" y="260" width="26" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-42" value="同一算式结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
-          <mxGeometry x="-280" y="490" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Sjk2sSOGN2D8FrFHUU6f-44" value="每个过程都在按序执行S1-S2-S3：&lt;br&gt;&lt;ul style=&quot;line-height: 1;&quot;&gt;&lt;li&gt;S1有产生，则跳出本次子循环&lt;/li&gt;&lt;li&gt;否则，执行S2，S2产生新算式，则跳出本次子循环&lt;/li&gt;&lt;li&gt;否则，执行S3，S3产生新算式，则跳出本次子循环&lt;/li&gt;&lt;li&gt;否则，结束当前计算路径的计算，得到一条完整计算路径和算式最终结果&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
           <mxGeometry x="-190" y="130" width="220" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-45" value="" style="group" vertex="1" connectable="0" parent="iSBz-SDed5YJUgZHmNs5-1">
-          <mxGeometry x="-310" y="60" width="100" height="430" as="geometry" />
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-48" value="" style="group" vertex="1" connectable="0" parent="iSBz-SDed5YJUgZHmNs5-1">
+          <mxGeometry x="-320" y="60" width="120" height="460" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-37" value="原始算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-45">
-          <mxGeometry x="10" width="80" height="30" as="geometry" />
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-42" value="同一算式结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#0000CC;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-48">
+          <mxGeometry y="430" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-38" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-45">
-          <mxGeometry y="80" width="100" height="30" as="geometry" />
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-47" value="" style="group" vertex="1" connectable="0" parent="Sjk2sSOGN2D8FrFHUU6f-48">
+          <mxGeometry width="110" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;fontSize=18;fontColor=#FF0000;endArrow=none;endFill=0;dashed=1;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-45" source="Sjk2sSOGN2D8FrFHUU6f-37" target="Sjk2sSOGN2D8FrFHUU6f-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;fontSize=18;fontColor=#FF0000;endArrow=none;endFill=0;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-45" source="Sjk2sSOGN2D8FrFHUU6f-39">
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#0000CC;endArrow=none;endFill=0;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-47" source="Sjk2sSOGN2D8FrFHUU6f-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="430" as="targetPoint" />
+            <mxPoint y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-39" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-45">
-          <mxGeometry y="200" width="100" height="30" as="geometry" />
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-37" value="原始算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#0000CC;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-47">
+          <mxGeometry x="20" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;fontSize=18;fontColor=#FF0000;endArrow=none;endFill=0;dashed=1;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-45" source="Sjk2sSOGN2D8FrFHUU6f-38" target="Sjk2sSOGN2D8FrFHUU6f-39">
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-38" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#0000CC;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-47">
+          <mxGeometry x="10" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontSize=18;fontColor=#0000FF;endArrow=none;endFill=0;dashed=1;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-47" source="Sjk2sSOGN2D8FrFHUU6f-37" target="Sjk2sSOGN2D8FrFHUU6f-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#0000FF;fontSize=18;fontColor=#0000FF;endArrow=none;endFill=0;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-47" source="Sjk2sSOGN2D8FrFHUU6f-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-39" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#0000CC;" vertex="1" parent="Sjk2sSOGN2D8FrFHUU6f-47">
+          <mxGeometry x="10" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;fontSize=18;fontColor=#0000FF;endArrow=none;endFill=0;dashed=1;" edge="1" parent="Sjk2sSOGN2D8FrFHUU6f-47" source="Sjk2sSOGN2D8FrFHUU6f-38" target="Sjk2sSOGN2D8FrFHUU6f-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
