@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T16:16:34.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="5-auRTqObyzoenK90-gj" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:17:47.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="_vCopsYRAWdTvioTzzY4" version="20.4.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -616,13 +616,13 @@
         <mxCell id="VGC7Dj2BKurm_KNhq9Au-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="UxcXkKqJ4SN5SXq5ANwV-1" source="VGC7Dj2BKurm_KNhq9Au-1" target="VGC7Dj2BKurm_KNhq9Au-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGC7Dj2BKurm_KNhq9Au-1" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;解题步骤&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(CalculationStep)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="UxcXkKqJ4SN5SXq5ANwV-1">
+        <mxCell id="VGC7Dj2BKurm_KNhq9Au-1" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;解题步骤&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Step)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="UxcXkKqJ4SN5SXq5ANwV-1">
           <mxGeometry x="205" y="420" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGC7Dj2BKurm_KNhq9Au-2" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;算式结果&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Result)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="UxcXkKqJ4SN5SXq5ANwV-1">
           <mxGeometry x="490" y="240" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VGC7Dj2BKurm_KNhq9Au-3" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;步骤描述&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(StepDescription)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="UxcXkKqJ4SN5SXq5ANwV-1">
+        <mxCell id="VGC7Dj2BKurm_KNhq9Au-3" value="&lt;font style=&quot;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;步骤描述&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(IStepDescription)&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#00FF00;" vertex="1" parent="UxcXkKqJ4SN5SXq5ANwV-1">
           <mxGeometry x="490" y="420" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGC7Dj2BKurm_KNhq9Au-5" value="1" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;fontSize=18;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;" edge="1" parent="UxcXkKqJ4SN5SXq5ANwV-1" source="VGC7Dj2BKurm_KNhq9Au-0" target="VGC7Dj2BKurm_KNhq9Au-1">
