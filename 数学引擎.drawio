@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T19:02:22.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="2krAVFlVvIFNPmzo3elZ" version="20.4.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-10-16T19:03:43.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="5Dw81sopsA0qsN6wuKLJ" version="20.4.1" type="github" pages="8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1388,8 +1388,14 @@
         <mxCell id="Sjk2sSOGN2D8FrFHUU6f-38" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
           <mxGeometry x="710" y="130" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#FF0000;fontSize=18;fontColor=#FF0000;endArrow=none;endFill=0;" edge="1" parent="iSBz-SDed5YJUgZHmNs5-1" source="Sjk2sSOGN2D8FrFHUU6f-39" target="Sjk2sSOGN2D8FrFHUU6f-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Sjk2sSOGN2D8FrFHUU6f-39" value="过程新算式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
           <mxGeometry x="710" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sjk2sSOGN2D8FrFHUU6f-42" value="同一算式结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontSize=18;fontColor=#FF0000;" vertex="1" parent="iSBz-SDed5YJUgZHmNs5-1">
+          <mxGeometry x="700" y="480" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
