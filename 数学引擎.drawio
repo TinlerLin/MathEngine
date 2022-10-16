@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T15:56:29.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="XPSLqjiG3QeSpo2gEgUJ" version="20.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:00:50.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="MsoSrR17TkoJ9xREKkD_" version="20.4.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -628,32 +628,32 @@
         <mxCell id="r3eoLEYgLHm547nozG5H-8" value="算式语法分析" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
           <mxGeometry x="340" y="550" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r3eoLEYgLHm547nozG5H-9" value="定律或性质&#xa;匹配与应用" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="190" y="215" width="150" height="50" as="geometry" />
+        <mxCell id="r3eoLEYgLHm547nozG5H-9" value="法则的模式匹配与应用&#xa;(包含：定律、公式、速算类等)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
+          <mxGeometry x="190" y="230" width="450" height="55" as="geometry" />
         </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-11" value="加法定律&#xa;交换律/结合律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="190" y="380" width="150" height="50" as="geometry" />
+          <mxGeometry x="100" y="397" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-12" value="乘法定律&#xa;交换律/结合律/分配律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="440" y="380" width="200" height="50" as="geometry" />
+          <mxGeometry x="275" y="400" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-13" value="四则混合运算&#xa;步骤式解题" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
           <mxGeometry x="270" y="120" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r3eoLEYgLHm547nozG5H-14" value="公式识别与应用" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="440" y="210" width="150" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-15" value="减法定律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="190" y="450" width="150" height="50" as="geometry" />
+          <mxGeometry x="100" y="457" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-16" value="除法定律" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="440" y="450" width="200" height="50" as="geometry" />
+          <mxGeometry x="275" y="457" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3eoLEYgLHm547nozG5H-17" value="计算复杂度评估" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontStyle=5" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
           <mxGeometry x="550" y="550" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r3eoLEYgLHm547nozG5H-19" value="有趣速算类方法集" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00CC00;strokeColor=#00CC00;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
-          <mxGeometry x="190" y="290" width="150" height="50" as="geometry" />
+        <mxCell id="Pwo3fOQin9ELm5daEsPv-0" value="数学公式" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
+          <mxGeometry x="490" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Pwo3fOQin9ELm5daEsPv-1" value="有趣速算方法" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
+          <mxGeometry x="490" y="457" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
