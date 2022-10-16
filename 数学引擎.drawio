@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T17:24:30.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="q2DQDTQwj11y05mBaYpZ" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-16T17:24:37.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="SyCRyas3iqV3ZJDMDP8M" version="20.4.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1001,7 +1001,7 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-70" target="CzfO-zZNTDWKGAy5E91L-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-70" value="应用法则&lt;br&gt;并计算复杂度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-70" value="尝试应用法则&lt;br&gt;并计算复杂度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1458" y="396" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-72" target="CzfO-zZNTDWKGAy5E91L-57">
