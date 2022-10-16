@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T16:03:10.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="r0suS0cXovDFTXlOXxJ6" version="20.4.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-10-16T16:03:43.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="2ihJ_nc9R7cPNdHRNyYc" version="20.4.1" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -652,7 +652,7 @@
         <mxCell id="Pwo3fOQin9ELm5daEsPv-0" value="数学公式" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
           <mxGeometry x="490" y="400" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Pwo3fOQin9ELm5daEsPv-1" value="有趣速算方法" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
+        <mxCell id="Pwo3fOQin9ELm5daEsPv-1" value="有趣速算方法" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;fontColor=#00FF00;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
           <mxGeometry x="490" y="457" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Pwo3fOQin9ELm5daEsPv-3" value="计算路径间的对比择优" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;fontSize=16;" vertex="1" parent="r3eoLEYgLHm547nozG5H-1">
