@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T17:10:32.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="u4rZJ2LSJumnO8vjBCNG" version="20.4.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-16T17:17:51.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39" etag="ERMV3cP-bEXIpe53I8a2" version="20.4.1" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="四则混合运算步骤拆解 算法设计组件图">
     <mxGraphModel dx="1422" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -914,8 +914,8 @@
       <root>
         <mxCell id="sZsetee-1QVcu8ZJ8vVv-0" />
         <mxCell id="sZsetee-1QVcu8ZJ8vVv-1" parent="sZsetee-1QVcu8ZJ8vVv-0" />
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-3" value="算式运算步骤输出" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=180;height=40;fontStyle=3;fontColor=#CC0066;strokeWidth=2;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
-          <mxGeometry x="40" y="10" width="1200" height="1150" as="geometry" />
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-3" value="算式步骤式解题过程" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;width=210;height=40;fontStyle=3;fontColor=#CC0066;strokeWidth=2;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+          <mxGeometry x="30" y="10" width="1160" height="1050" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-122" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=18;fontColor=#000000;width=90;height=40;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="50" y="110" width="780" height="930" as="geometry" />
@@ -923,15 +923,16 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-0" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;运算法则应用&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=20;fontColor=#CC0066;strokeColor=#000000;strokeWidth=2;fillColor=default;width=140;height=40;fontStyle=1" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1440" y="10" width="840" height="1070" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;多项组合应用&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#0000FF;fillColor=none;width=120;height=30;fontStyle=6;strokeColor=#0000FF;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;法则应用评估&lt;/span&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fontColor=#0000FF;fillColor=none;width=120;height=30;fontStyle=6;strokeColor=#0000FF;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1510" y="370" width="490" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-66" target="CzfO-zZNTDWKGAy5E91L-57">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FF0000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-66" target="CzfO-zZNTDWKGAy5E91L-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1480" y="631" />
-              <mxPoint x="1480" y="1026" />
+              <mxPoint x="1480" y="977" />
             </Array>
+            <mxPoint x="1680" y="977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-6" target="CzfO-zZNTDWKGAy5E91L-85">
@@ -949,7 +950,7 @@
           <mxGeometry x="1680" y="80" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-57" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
-          <mxGeometry x="1678" y="1011" width="30" height="30" as="geometry" />
+          <mxGeometry x="1678" y="962" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-59" target="CzfO-zZNTDWKGAy5E91L-62">
           <mxGeometry relative="1" as="geometry" />
@@ -957,14 +958,15 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-59" value="模式匹配" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1624.5" y="150" width="137" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-60" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#FF0000;exitX=0.097;exitY=0.424;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-62" target="CzfO-zZNTDWKGAy5E91L-57">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-60" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#FF0000;exitX=0.097;exitY=0.424;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-62" target="CzfO-zZNTDWKGAy5E91L-57">
           <mxGeometry x="0.0787" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1645" y="285" />
               <mxPoint x="1480" y="285" />
-              <mxPoint x="1480" y="1026" />
+              <mxPoint x="1480" y="977" />
             </Array>
             <mxPoint as="offset" />
+            <mxPoint x="1690" y="977" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-61" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#0000FF;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-62" target="CzfO-zZNTDWKGAy5E91L-70">
@@ -978,7 +980,7 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-64" target="CzfO-zZNTDWKGAy5E91L-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-64" value="匹配简算规则" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-64" value="法则应用前后的计算复杂度对比" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1624.5" y="495" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-65" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#0000CC;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-66" target="CzfO-zZNTDWKGAy5E91L-68">
@@ -996,7 +998,7 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-70" target="CzfO-zZNTDWKGAy5E91L-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CzfO-zZNTDWKGAy5E91L-70" value="提取并组织&lt;br&gt;算式子项集" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-70" value="应用法则并计算法则的计算复杂度" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="1624.5" y="396" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#CC0066;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-72" target="CzfO-zZNTDWKGAy5E91L-57">
@@ -1177,8 +1179,8 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#FF0000;endArrow=classic;endFill=1;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-110" target="CzfO-zZNTDWKGAy5E91L-121">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="960" />
-              <mxPoint x="900" y="280" />
+              <mxPoint x="880" y="960" />
+              <mxPoint x="880" y="280" />
               <mxPoint x="1069" y="280" />
             </Array>
           </mxGeometry>
@@ -1201,8 +1203,11 @@
         <mxCell id="CzfO-zZNTDWKGAy5E91L-120" value="至多产生2个单步计算路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=5;fontSize=18;fontColor=#000000;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="150" y="920" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;fontColor=#FF0000;endArrow=classic;endFill=1;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-121" target="CzfO-zZNTDWKGAy5E91L-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-121" value="整合所有计算路径" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
-          <mxGeometry x="990" y="300" width="158.5" height="70" as="geometry" />
+          <mxGeometry x="990" y="320" width="158.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-124" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;fontColor=#FF0000;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="375" y="323" width="60" height="30" as="geometry" />
@@ -1224,6 +1229,15 @@
         </mxCell>
         <mxCell id="CzfO-zZNTDWKGAy5E91L-132" value="每一次迭代，都是一个计算路径的延续 而且 又可能衍生出更多计算路径" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;fontColor=#FF0000;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
           <mxGeometry x="550" y="128.75" width="260" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#FF0000;endArrow=classic;endFill=1;" edge="1" parent="sZsetee-1QVcu8ZJ8vVv-1" source="CzfO-zZNTDWKGAy5E91L-134" target="CzfO-zZNTDWKGAy5E91L-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-134" value="对比择优得到相对最优计算路径 以及 算式结果" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+          <mxGeometry x="990" y="475" width="158.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CzfO-zZNTDWKGAy5E91L-137" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=16;" vertex="1" parent="sZsetee-1QVcu8ZJ8vVv-1">
+          <mxGeometry x="1054.25" y="600" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
